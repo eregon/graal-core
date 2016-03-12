@@ -39,9 +39,9 @@ suite = {
             {
                "name" : "jvmci",
                "optional" : "true",
-               "version" : "a3471785190df0515e36e4ff4a350833404460a7",
+               "version" : "8fcea411c09b1ea8b4f0043f5960db4eec81ed92",
                "urls" : [
-                    {"url" : "http://lafo.ssw.uni-linz.ac.at/hg/graal-jvmci-8", "kind" : "hg"},
+                    {"url" : "https://github.com/eregon/jvmci.git", "kind" : "git"},
                     {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
                 ]
             },
