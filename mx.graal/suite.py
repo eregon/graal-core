@@ -39,7 +39,7 @@ suite = {
             {
                "name" : "jvmci",
                "optional" : "true",
-               "version" : "e8cc0e16ffa51cc8dbce3e59713e6ccdbc61b98b",
+               "version" : "e822f6a81cc7fa18a4bd427672645c80fb4d3693",
                "urls" : [
                     {"url" : "https://github.com/eregon/jvmci.git", "kind" : "git"},
                     {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
