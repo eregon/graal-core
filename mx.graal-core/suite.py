@@ -39,7 +39,7 @@ suite = {
             {
                "name" : "jvmci",
                "optional" : "true",
-               "version" : "8fcea411c09b1ea8b4f0043f5960db4eec81ed92",
+               "version" : "c6d77b327c9dfa79bfc06760242b635674a343c7",
                "urls" : [
                     {"url" : "https://github.com/eregon/jvmci.git", "kind" : "git"},
                     {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
@@ -47,7 +47,7 @@ suite = {
             },
             {
                "name" : "truffle",
-               "version" : "551e8475af2fc8769bc3ead07c9156fe0ccbe338",
+               "version" : "3993630f8c8f9c65cb5e7ea8b331087feb783ee6",
                "urls" : [
                     {"url" : "https://github.com/eregon/truffle.git", "kind" : "git"},
                     {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
