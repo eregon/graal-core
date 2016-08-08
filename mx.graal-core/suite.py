@@ -8,17 +8,17 @@ suite = {
         "name" : "jvmci",
         "jdkProvidedSince" : "9",
         "optional" : "true",
-        "version" : "b2ca0db145463b6332c0096eaa68fa03e80ee5e8",
+        "version" : "0994a200e7c3cd490b0c56f5dfcd965596125174",
         "urls" : [
-          {"url" : "http://lafo.ssw.uni-linz.ac.at/hg/graal-jvmci-8", "kind" : "hg"},
+          {"url" : "https://github.com/eregon/jvmci.git", "kind" : "git"},
           {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
         ]
       },
       {
         "name" : "truffle",
-        "version" : "f3b5ef80a7cb8250069c10d0f15d377955dafe67",
+        "version" : "3c5126c4b50659e2e5940a9e3abd1f406d2d5e1f",
         "urls" : [
-          {"url" : "https://github.com/graalvm/truffle.git", "kind" : "git"},
+          {"url" : "https://github.com/eregon/truffle.git", "kind" : "git"},
           {"url" : "https://curio.ssw.jku.at/nexus/content/repositories/snapshots", "kind" : "binary"},
          ]
       },
